@@ -25,6 +25,7 @@ question = input("구의 반지름을 입력해주세요 : ")
 int_question = int(question)
 pi = 3.141592
 
+
 bupi = ( 4 * pi * (int_question**3) ) / 3
 nulb = 4 * pi * (int_question**2)
 

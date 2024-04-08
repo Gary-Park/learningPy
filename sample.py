@@ -17,6 +17,8 @@ print("IndentationError : 조건문에 반드시 필요함 : pass 로 스킵할�
 print("raise NotImplementedError")
 print()
 print()
+print("Beautiful Soup 모듈")
+print("https://www.crummy.com/software/BeautifulSoup/bs4/doc")
 """
 #구의 부피와 겉넓이
 question = input("구의 반지름을 입력해주세요 : ")

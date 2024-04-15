@@ -3,6 +3,10 @@
         https://docs.python.org/ko/3/
         
     외부모듈
+        설치 명령어
+        pip3 install 모듈이름
+        pip 문서 웹 페이지 : https://packaing.python.org/en/latest
+            # Beautiful Soup : 웹 페이지를 분석할때 사용하는 module
     표준모듈
         https://docs.python.org/3/library/index.html
 
